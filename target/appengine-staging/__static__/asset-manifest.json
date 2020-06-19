@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://carolynlwang-step.uc.r.appspot.com/dawn-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "https://carolynlwang-step.uc.r.appspot.com/dawn-app/static/js/main.c049e059.chunk.js",
+    "main.js.map": "https://carolynlwang-step.uc.r.appspot.com/dawn-app/static/js/main.c049e059.chunk.js.map",
+    "runtime-main.js": "https://carolynlwang-step.uc.r.appspot.com/dawn-app/static/js/runtime-main.2c5b2374.js",
+    "runtime-main.js.map": "https://carolynlwang-step.uc.r.appspot.com/dawn-app/static/js/runtime-main.2c5b2374.js.map",
+    "static/js/2.50d3b0f5.chunk.js": "https://carolynlwang-step.uc.r.appspot.com/dawn-app/static/js/2.50d3b0f5.chunk.js",
+    "static/js/2.50d3b0f5.chunk.js.map": "https://carolynlwang-step.uc.r.appspot.com/dawn-app/static/js/2.50d3b0f5.chunk.js.map",
+    "index.html": "https://carolynlwang-step.uc.r.appspot.com/dawn-app/index.html",
+    "precache-manifest.b493b435f0d4d871feb07a71eb8958b8.js": "https://carolynlwang-step.uc.r.appspot.com/dawn-app/precache-manifest.b493b435f0d4d871feb07a71eb8958b8.js",
+    "service-worker.js": "https://carolynlwang-step.uc.r.appspot.com/dawn-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "https://carolynlwang-step.uc.r.appspot.com/dawn-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.50d3b0f5.chunk.js.LICENSE.txt": "https://carolynlwang-step.uc.r.appspot.com/dawn-app/static/js/2.50d3b0f5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "https://carolynlwang-step.uc.r.appspot.com/dawn-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c5b2374.js",
+    "static/js/2.50d3b0f5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c049e059.chunk.js"
+  ]
+}
