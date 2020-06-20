@@ -12,6 +12,7 @@ yarn add stable
 yarn add serve
 ```
 Also add `app.yaml` and update `scripts`,`engines` sections in `package.json`.
+Remove `package-lock.json`.
 
 ## Run locally
 ```

@@ -10,7 +10,8 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
     "serve": "^11.3.2",
-    "stable": "^0.1.8"
+    "stable": "^0.1.8",
+    "websocket-extensions": "^0.1.4"
   },
   "scripts": {
     "start": "serve -s build",
@@ -22,7 +23,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "engines":{
+  "engines": {
     "node": "10.x.x"
   },
   "browserslist": {
