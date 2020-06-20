@@ -11,7 +11,7 @@ yarn add google-cloud
 yarn add stable
 yarn add serve
 ```
-also add `app.yaml` and update `scripts`,`engines` sections in `package.json`.
+Also add `app.yaml` and update `scripts`,`engines` sections in `package.json`.
 
 ## Run locally
 ```
